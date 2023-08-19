@@ -1,0 +1,64 @@
+
+body{
+ margin: 60px
+}
+
+.main {
+    margin: 0 10px;
+    border: 1px solid red;
+}
+
+.header {
+    background-image: url("pattern.JPEG");
+    border: 1px dotted black;
+    margin: 50px 10px;
+}
+
+.header h1 {
+   font-family: Helvetica;
+   font-size: 100px;
+   font-weight: bold; 
+   color: khaki;
+   margin: 0 auto;
+   text-align: center;
+   width:100%
+}
+
+.brushes {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumaquamarine;
+}
+
+.strong,.strongframes,.strongpaint {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.hacksaw,.frames,.paint {
+    margin-left: -70px;
+    margin-right: 10px;
+    position: relative;
+    left: 40px;
+}
+
+.framesh2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.painth2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+
